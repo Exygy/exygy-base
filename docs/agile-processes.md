@@ -59,6 +59,16 @@ Story points are a unit of measure used to express the overall effort required t
 
 Story points should be used to understand the size and prioritization of work and are **not** a measure of productivity.
 
+Points differ from hours, but it is often useful to have a baseline to start the team off with. As time goes on, these points will have different meanings to different teams. The more the team can break up an issue, the more accurate their estimations should be. In general, teams should avoid bringing issues into the sprint that cannot be completed within that same sprint.
+
+**Only to form a starting baseline, if teams are unfamiliar with story point estimation**
+- 1 point - 1-2 hours
+- 2 points - 4 hours
+- 3 points - 1 day
+- 5 points - 2 to 3 days
+- 8 points - 1 week
+- 13 points - 2 weeks
+
 
 ## Standups
 
