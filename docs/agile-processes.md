@@ -1,3 +1,5 @@
+# Agile Process
+
 ## Product Backlog
 
 The product backlog consists of all of the issues that are not in the current sprint. It is the product owner's responsibility to prioritize items in the backlog, to ensure that all requirements are gathered and expressed in each issue and to define the definition of done for each issue.
