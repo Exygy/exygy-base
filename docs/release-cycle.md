@@ -7,4 +7,4 @@ This is ultimately decided by the team and it is often useful to have it coincid
 There are many tools that can help ease the burden of creating releases and bumping versions of your product. Tools like [Commitizen](https://github.com/commitizen/cz-cli), which help your team write conventional commits, and [lerna](https://github.com/lerna/Lerna), which can help publish your packages are recommended.
 
 ### Examples
-The [Bloom Affordable Housing System](https://github.com/bloom-housing/bloom) is continuously iterating on its processes, and thanks in large part to [@emilyjablonski](https://github.com/emilyjablonski), we have these tools in place to auto update the changelogs and publish a pre-release when branches are merged into Bloom's dev environment.
+The [Bloom Affordable Housing System](https://github.com/bloom-housing/bloom) is continuously iterating on its processes, and thanks to [@emilyjablonski](https://github.com/emilyjablonski), the team has these tools in place to auto update the changelogs and publish a pre-release when branches are merged into Bloom's dev environment.
