@@ -21,3 +21,6 @@ Add any other context or screenshots about the feature request here.
 
 ** What is the definition of done**
 A clear and concise description of the acceptance criteria required to close this issue.
+
+**QA Review Instructions**
+This is to be filled out by the developer who completes this issue, before passing to QA.
