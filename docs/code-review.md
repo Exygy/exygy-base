@@ -1,3 +1,5 @@
+# Code Review
+
 Reviewing code can often be more challenging than writing it yourself and it is far better to catch any issues now than before it reaches QA or even worse, production. A [pull request template](https://github.com/Exygy/exygy-base/blob/main/docs/pull-request-template.md) can be used to help certain steps are taken.
 
 Some steps you can take to provde a quality review are:
